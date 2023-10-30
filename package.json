@@ -1,5 +1,5 @@
 {
-  "name": "@NLogic/ng2-tree",
+  "name": "@nlogic/ng2-tree",
   "version": "2.0.0-rc.11",
   "description": "angular2 component for visualizing data that can be naturally represented as a tree",
   "main": "index.js",
@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/valor-software/ng2-tree/issues"
   },
-  "private": true,
+  "private": false,
   "keywords": [
     "tree",
     "ng2",
